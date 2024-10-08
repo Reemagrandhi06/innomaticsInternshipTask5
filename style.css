@@ -1,0 +1,25 @@
+.container {
+    display: inline-flex;
+    text-align: center;
+
+.btn {
+    border-radius: 15px;
+    margin-left: 15px;
+}
+.dropdown-item {
+    background-color: black;
+    color: white;
+}
+.navbar-brand {
+    padding-left: 40px;
+}
+.nav-link {
+    padding-left: 40px;
+}
+.svg {
+    justify-content: center;
+}
+.card {
+    margin-left: 30px;
+}
+}
